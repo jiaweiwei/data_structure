@@ -1,0 +1,15 @@
+			How to join us.
+	
+	This is a free project for Linux kernel. We want to translate some
+valuable documentations for our Chinese brothers to hack Linux kernel more 
+convienent. The one is of course under the GPL. If you want to use the 
+documentation, you should allow GPL.
+					---HarryWei<harryxiyou@gmail.com>
+
+	1, You must get a git account from github.com.
+	2, Set up your git, more details from http://help.github.com/linux-set-up-git/.
+	3, Fork my repository, more details from http://help.github.com/fork-a-repo/.
+	4, Hack my project and you can send me your patch to xiyoulinuxkernelgroup@googlegroups.com.
+	5, You should pull my project on time.
+
+	If you have any other questions, please send mail to me, thanks.
